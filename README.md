@@ -24,4 +24,4 @@ This is a simple analog clock built using **HTML**, **CSS**, and **JavaScript**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/analog-clock.git
+   git clone https://github.com/rajatDevX/project3#
